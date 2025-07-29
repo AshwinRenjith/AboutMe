@@ -21,17 +21,17 @@ Third-year AI Engineering student with hands-on experience in AI product develop
 
 ---
 
-**Programming Languages:** Python, TypeScript, C#  
-**Frameworks & Tools:** ASGI, Uvicorn, AI coding assistants (GitHub Copilot)  
+**Programming Languages:** Python   
+**Frameworks & Tools:** Langflow, LangChain, CrewAI, AI coding assistants (GitHub Copilot)  
 **AI/ML:** Advanced prompt engineering, LLM integration, AI wrapper development  
 **Development Approach:** Full-stack development, rapid prototyping with AI-assisted coding  
-**Platforms:** Google NotebookLM, OpenAI/Anthropic APIs
+**Platforms:** Google NotebookLM, OpenAI/Anthropic/Gemini APIs
 
 ## TECHNICAL SKILLS
 
 ### AI Educational Platform for JEE Students
 **Role:** Lead Developer (Frontend, Backend, Prompt Engineering)  
-**Technologies:** TypeScript, Python, ASGI, Uvicorn  
+**Technologies:** TypeScript, Python, Langflow, LangChain, CrewAI  
 - Developed comprehensive AI wrapper platform specifically for JEE exam preparation
 - Engineered 600-line specialized prompt for domain-specific accuracy and user engagement
 - Managed full-stack development with collaborative debugging
